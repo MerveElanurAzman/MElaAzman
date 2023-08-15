@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MElaAzman
+- 👋 Hi, I’m @MerveElanurAzman 
 - 👀 I’m interested in software and design
 - 🌱 I’m currently learning java and C+
 - 📫 You can reach me by sending an e-mail to elaazman42@gmail.com
