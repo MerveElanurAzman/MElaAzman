@@ -2,7 +2,7 @@
 - 👀 I’m interested in software and design
 - 🌱 I’m currently learning java and C+
 - 📫 You can reach me by sending an e-mail to merveelanurazman@gmail.com
-- I am currently taking trainings on mobile programming and unity game coding.
+- I am currently taking trainings on mobile programming using flutter.
 
 <!---
 MElaAzman/MElaAzman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
